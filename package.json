@@ -1,0 +1,12 @@
+{
+  "name": "quest-base",
+  "version": "1.0.0",
+  "description": "a basis of quest classes and functions designed for use in a frontend interface",
+  "main": "index.js",
+  "repository": "https://github.com/bossley9/quest-base",
+  "author": "Sam Bossley <35381535+bossley9@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.1.1"
+  }
+}
